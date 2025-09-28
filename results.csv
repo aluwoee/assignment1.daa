@@ -1,0 +1,5 @@
+algorithm,n,size,time_ms,comparisons,allocations,depth
+MergeSort,50000,32,740250,1,13
+QuickSort,50000,24,915557,0,9
+DeterministicSelect,10000,3,47823,0,11
+ClosestPair,5000,33,0,0,0
